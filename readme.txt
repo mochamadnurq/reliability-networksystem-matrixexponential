@@ -8,7 +8,7 @@ doi: https://doi.org/10.1016/j.ress.2020.107192
 The scripts are developed using MATLAB 2016a. 
 
 CONTENTS:
-\lib         : collection of functions
+\lib       : collection of functions
 \sectionXX : scripts associated with Section XX
 
 HOW TO USE:
