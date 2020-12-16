@@ -17,5 +17,5 @@ INPUT, MAIN PROGRAM, and OUTPUT.
 Scripts in \sectionXX are closely related with Manuscript.
 
 If there is any difficulty to use these scripts, 
-please feel free to contact the author: mochamadnurq@gmail.com.
+please feel free to contact: mochamadnurq@gmail.com.
 Thank you.
